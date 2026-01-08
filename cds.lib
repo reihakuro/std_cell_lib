@@ -1,0 +1,3 @@
+# INCLUDE $CDS_INST_DIR/share/cdssetup/cds.lib
+
+DEFINE standardcell ./standardcell
