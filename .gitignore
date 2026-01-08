@@ -1,0 +1,28 @@
+# Cadence Logs & Locks
+*.log
+*.lck
+CDS.log*
+command.log*
+panic.log
+
+# Simulation Data 
+/simulation
+/sim
+*.psf
+*.trn
+*.dsn
+*.dat
+*.wdb
+
+# Backup files
+*~
+*.bak
+*.sav
+
+# Virtuoso temp files
+.cadence/
+.artist_states/
+
+*.dm
+*.cdslck
+*.oa.cdslck.*
