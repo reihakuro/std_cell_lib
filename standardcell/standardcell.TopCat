@@ -1,0 +1,4 @@
+TDMCHECKPOINT="1.0"
+standardcell/logic_gates.Cat type="category"
+standardcell/nmos_pmos_characteristic.Cat type="category"
+standardcell/testbench.Cat type="category"

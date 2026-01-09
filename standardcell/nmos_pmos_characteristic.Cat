@@ -1,0 +1,4 @@
+TDMCHECKPOINT="1.0"
+keepEmptyCategory type="unknown"
+standardcell/nmos_char_sch type="cell"
+standardcell/pmos_char_sch type="cell"
